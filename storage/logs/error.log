@@ -244,3 +244,6 @@
 2018-08-26 20:30:22 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\antares\system\library\mail\mail.php on line 77
 2018-08-26 20:30:58 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\antares\system\library\mail\mail.php on line 77
 2018-08-26 20:31:30 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\antares\system\library\mail\mail.php on line 77
+2018-09-06 19:54:06 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'antares_webshop' in C:\xampp\htdocs\antares_web\system\library\db\mysqli.php on line 7
+2018-09-06 19:54:06 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\antares_web\system\library\db\mysqli.php on line 10
+2018-09-06 19:54:06 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\antares_web\system\library\db\mysqli.php on line 10
